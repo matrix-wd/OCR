@@ -20,4 +20,4 @@ picture-text-demo
 ```
 
 ## 项目图片
-![image](https://github.com/deng1234/picture-text-demo/blob/master/_img/1.jpg)
+![image](https://github.com/deng1234/OCR/tree/master/_img/1.jpg)
